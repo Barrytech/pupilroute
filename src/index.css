@@ -17,6 +17,10 @@ nav {
     background-color: rgb(253, 246, 204);
 }
 
+.nav-item {
+    font-size: 25px;
+}
+
 #eye {
     font-weight: bolder;
     color: black;
